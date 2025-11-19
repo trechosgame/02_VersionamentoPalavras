@@ -1,5 +1,6 @@
-# 07_VersionamentoPalavras
- - Neste versionamento do jogo palvras, AlphabetDataDrawer.cs e AlphabetData.cs foi atualizados com a ajuda da inteligencia artificial Grok.
+# 02_VersionamentoPalavras
+ - Neste versionamento do jogo palavras, AlphabetDataDrawer.cs e AlphabetData.cs foi atualizados
+ - com a ajuda da inteligencia artificial Grok.
 
 # CÓDIGO FONTE:
 - 1 https://www.youtube.com/watch?v=AAGuuSVBk8M&list=PLJLLSehgFnspMBk7VaLI18Digsj2xuMhT&index=1
